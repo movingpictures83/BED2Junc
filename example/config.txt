@@ -1,0 +1,2 @@
+Prefix plugins/BED2Junc/example/
+Plugin BED2Junc inputfile merge.bed outputfile merge.junc.bed
